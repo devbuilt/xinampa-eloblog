@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/strapi-starter-react-blog" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/strapi-starter-react-blog/backend" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/strapi-starter-react-blog/backend/elblog-xinampa" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/strapi-starter-react-blog/frontend" vcs="Git" />
+  </component>
+</project>
